@@ -325,9 +325,9 @@ export default function Page() {
             </a>
           </div>
 
-          <p className="mt-4 text-sm text-zinc-400">
+          {/* <p className="mt-4 text-sm text-zinc-400">
             Replace the email link with your Instagram / WhatsApp DM link when you publish.
-          </p>
+          </p> */}
         </Section>
       </Container>
 
