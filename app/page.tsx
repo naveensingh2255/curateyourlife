@@ -58,7 +58,13 @@ export default function Page() {
         <Container>
           <div className="flex items-center justify-between py-3">
             <a href="#top" className="font-semibold tracking-tight">
-              Curate Your Life
+              <Image
+                src="/curateyourlife_logo.png"
+                alt="Curate Your Life"
+                width={320}
+                height={80}
+                className="mx-auto mb-8"
+              />
             </a>
             <nav className="hidden sm:flex items-center gap-6 text-sm text-zinc-300">
               <a className="hover:text-white" href="#why">Why it works</a>
