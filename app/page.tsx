@@ -62,7 +62,7 @@ export default function Page() {
                 src="/curateyourlife_logo.png"
                 alt="Curate Your Life"
                 width={180}
-                height={auto}
+                height={80}
                 className="mx-auto"
               />
             </a>
