@@ -7,6 +7,10 @@ export const metadata: Metadata = {
   description:
     'Mindset-first, opportunity-driven — a practical path to financial growth beyond salary.',
   metadataBase: new URL('https://curateyourlife.in'),
+  icons: {
+    icon: "/curateyourlife_favicon.ico",
+    apple: "/curateyourlife_favicon.png",
+  },
 }
 
 export default function RootLayout({
