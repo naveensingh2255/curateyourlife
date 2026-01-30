@@ -61,9 +61,9 @@ export default function Page() {
               <Image
                 src="/curateyourlife_logo.png"
                 alt="Curate Your Life"
-                width={320}
-                height={80}
-                className="mx-auto mb-8"
+                width={180}
+                height={auto}
+                className="mx-auto"
               />
             </a>
             <nav className="hidden sm:flex items-center gap-6 text-sm text-zinc-300">
