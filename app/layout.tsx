@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   title: 'Curate Your Life — Growth Journey',
   description:
     'Mindset-first, opportunity-driven — a practical path to financial growth beyond salary.',
-  metadataBase: new URL('https://example.com'),
+  metadataBase: new URL('https://curateyourlife.in'),
 }
 
 export default function RootLayout({
