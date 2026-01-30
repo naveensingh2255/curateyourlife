@@ -313,7 +313,7 @@ export default function Page() {
           <div className="mt-8 flex flex-col sm:flex-row gap-3">
             <a
               className="inline-flex items-center justify-center rounded-2xl bg-white px-6 py-3 text-base font-semibold text-zinc-950 shadow-sm hover:opacity-90"
-              href="mailto:hello@curateyourlife.com?subject=Curate%20Your%20Growth%20Journey&body=Hi%2C%20I%27d%20like%20to%20start%20my%20journey.%20Message%3A%20Curate"
+              href="mailto:singh.kumar.amit23@gmail.com?subject=Curate%20Your%20Growth%20Journey&body=Hi%2C%20I%27d%20like%20to%20start%20my%20journey.%20Message%3A%20Curate"
             >
               Email to start
             </a>
